@@ -1,0 +1,22 @@
+@media(min-width:500px){
+ body{
+    background :Cyan;/*change the background color into cyan*/
+ color:blue;/*change the words color into blue*/
+  }
+}/*when the width of the page is 500px*/
+h1{
+ text-align:center; /*text is aligned center*/
+ font-family:sans-serif;/*the font type*/
+ font-size:50pt;/*the size of the font*/
+}
+h1:hover{
+        color:yellow;/*when the mouse touch the word ,the word will change color into yellow*/
+}
+@media(min-width:1000px){
+ body{
+    background :pink;/*change the background color into pink*/
+ color:red;/*change the words color into pink*/
+  }
+}/*when the width of the page is 1000px*/
+
+
