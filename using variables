@@ -21,3 +21,4 @@ $("#number").text(counter);
 </script> 
 </body> 
 </html>
+                                    //this code will keep counting, it won't return to first one
